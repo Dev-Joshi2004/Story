@@ -1,0 +1,3 @@
+code file_name ====> is use to open a file 
+jis directory mein ham kaam karte hai usse working directory bolte hai, agr hame apne code ka track rakhna hai to hame us working directory ko "Staging Area" mein save karna hoga.
+us file ko staging area mein add karne ke liye ham "git add file_name" command ka use karte hai.
