@@ -6,3 +6,4 @@ kisi file ko commit karne ke liye ham "git commit -m `commit message`" -m flag i
 "git checkout file_name" ye command last save content ko la degi file mein.
 "git remote add origin <URL>" ye command allow karti hai hame remote repository ko use karne ke liye.
 "git push -u origin main" help us to push our local repository to remote repositoryusing "u" flag.
+"git merge branch-name" to merge two branches in one.
